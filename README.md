@@ -26,7 +26,7 @@ El juego sitúa al usuario ante un dilema clásico de optimización de recursos 
 * Python 3.11 o superior instalado.
 
 ### Instalación y Ejecución
-1.  Clona este repositorio o descarga el archivo `main.py` de la Gigathon.
+1.  Clona este repositorio o descarga el archivo `main.py` del proyecto.
 2.  Ejecuta el script principal desde tu terminal:
     ```bash
     python main.py
